@@ -15,7 +15,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Beethoven"
+        android:theme="@style/Theme.Jangga"
         tools:targetApi="31">
         <activity
             android:name=".DicePage"
